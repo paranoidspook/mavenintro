@@ -1,3 +1,3 @@
 # mavenintro
 
-Repo for [Udemy - Maven Quick Start](www.udemy.com/maven-quick-start)
+Repo for www.udemy.com/maven-quick-start
