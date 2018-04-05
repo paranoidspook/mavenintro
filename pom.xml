@@ -38,7 +38,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>fully.qualified.MainClass</mainClass>
+              <mainClass>clinic.programming.training.Application</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
